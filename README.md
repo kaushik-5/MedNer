@@ -102,7 +102,7 @@ The processed data has been integrated into the repository, allowing for seamles
 Additionally, a versioning system has been established to manage the evolution of the project. The current release is tagged accordingly, reflecting the completion of the initial objectives. Future iterations may include updates to the model architecture, improvements in performance, and additional features based on user feedback or evolving project requirements. The repository documentation provides comprehensive information on the current state of the project, making it accessible to both developers and end-users.
 ## Authors
 
-- [@Kaushik G](https://www.github.com/itsKaushik05)
+- [@Kaushik G](https://github.com/kaushik-5)
 - [@Asifaa Sulthana N](https://www.github.com/AsifaaSulthana-20ITR012)
 - [@Fahima Begum B](https://www.github.com/Fahima0203)
 
