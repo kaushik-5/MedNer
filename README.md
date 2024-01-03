@@ -26,7 +26,6 @@ Future enhancements and analyses are planned to enhance the dataset visualizatio
 
 <img src="https://github.com/Kaushik-46/MedNer/assets/98961848/e98d88f8-9be7-449a-bf4c-0d684c5fb08c" alt="Results" width="600" height="400">
 
-<img src="https://github.com/Kaushik-46/MedNer/assets/98961848/e98d88f8-9be7-449a-bf4c-0d684c5fb08c" alt="Results" width="600" height="400">
 <br/> <br/> <br/>
 <img src="https://github.com/Kaushik-46/MedNer/assets/98961848/a820d978-72b5-4244-8731-355b8a7b6499" alt="Output" width="1000" height="400">
 
